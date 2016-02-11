@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZombieRace</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_intro">Introducción</string>
+    <string name="button_start">Comenzar aventura</string>
+    <string name="title_activity_display_introduccion">DisplayIntroduccionActivity</string>
+    <string name="title_activity_introduction">Introduction</string>
+    <string name="title_activity_adventure">Adventure</string>
+</resources>
